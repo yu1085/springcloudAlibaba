@@ -4,6 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>nacos_config_test</module>
+        <module>nacos-order</module>
+        <module>nacos-stock</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
