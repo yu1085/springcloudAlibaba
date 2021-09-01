@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class StockController {
     @RequestMapping("/test")
     public String test(String info){
-        return "库存模块接收到的信息:"+info;
+        return "库存模块2接收到的信息:"+info;
     }
 }

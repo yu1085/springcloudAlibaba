@@ -6,6 +6,7 @@
         <module>nacos_config_test</module>
         <module>nacos-order</module>
         <module>nacos-stock</module>
+        <module>nacos-stock2</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
